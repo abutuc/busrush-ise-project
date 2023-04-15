@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "mobileapp",
+    "slug": "mobileapp",
+    "version": "1.0.0",
+    "icon": "./assets/logo_square.png",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

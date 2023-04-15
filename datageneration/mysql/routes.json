@@ -1,0 +1,51 @@
+[
+  {
+    "id": {
+      "id": "AVRBUS-R0011",
+      "shift": "092000"
+    },
+    "designation": "Linha 11",
+    "driverId": "AVRBUS-C0000",
+    "busId": "AVRBUS-B0000"
+  },
+
+  {
+    "id": {
+      "id": "AVRBUS-R0004",
+      "shift": "083000"
+    },
+    "designation": "Linha 4",
+    "driverId": "AVRBUS-C0001",
+    "busId": "AVRBUS-B0001"
+  },
+
+  {
+    "id": {
+      "id": "AVRBUS-R0001",
+      "shift": "064700"
+    },
+    "designation": "Linha 1",
+    "driverId": "AVRBUS-C0002",
+    "busId": "AVRBUS-B0002"
+  },
+
+  {
+    "id": {
+      "id": "AVRBUS-R0002",
+      "shift": "124500"
+    },
+    "designation": "Linha 2",
+    "driverId": "AVRBUS-C0003",
+    "busId": "AVRBUS-B0003"
+  },
+
+  {
+    "id": {
+      "id": "AVRBUS-R0003",
+      "shift": "133500"
+    },
+    "designation": "Linha 3",
+    "driverId": "AVRBUS-C0004",
+    "busId": "AVRBUS-B0004"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "AVRBUS-C0000",
+    "firstName": "Armando",
+    "lastName": "Ascenso"
+  },
+
+  {
+    "id": "AVRBUS-C0001",
+    "firstName": "Bernardo",
+    "lastName": "Baptista"
+  },
+
+  {
+    "id": "AVRBUS-C0002",
+    "firstName": "Carlos",
+    "lastName": "Cruz"
+  },
+
+  {
+    "id": "AVRBUS-C0003",
+    "firstName": "Domingos",
+    "lastName": "Dias"
+  },
+
+  {
+    "id": "AVRBUS-C0004",
+    "firstName": "Eduardo",
+    "lastName": "Esteves"
+  },
+
+  {
+    "id": "AVRBUS-C0005",
+    "firstName": "Catarina",
+    "lastName": "Cruz"
+  }
+]

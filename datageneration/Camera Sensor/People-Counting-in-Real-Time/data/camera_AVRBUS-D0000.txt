@@ -1,0 +1,10 @@
+{"device_id":"AVRBUS-D0000","enter": 1, "exit": 0, "occupation": 1, "occupancy": 0.01, "busCapacity": 90, "time": "2023-01-03 12:08:57"}
+{"device_id":"AVRBUS-D0000","enter": 2, "exit": 0, "occupation": 2, "occupancy": 0.02, "busCapacity": 90, "time": "2023-01-03 12:09:00"}
+{"device_id":"AVRBUS-D0000","enter": 3, "exit": 0, "occupation": 3, "occupancy": 0.03, "busCapacity": 90, "time": "2023-01-03 12:09:01"}
+{"device_id":"AVRBUS-D0000","enter": 4, "exit": 0, "occupation": 4, "occupancy": 0.04, "busCapacity": 90, "time": "2023-01-03 12:09:01"}
+{"device_id":"AVRBUS-D0000","enter": 4, "exit": 1, "occupation": 3, "occupancy": 0.03, "busCapacity": 90, "time": "2023-01-03 12:09:04"}
+{"device_id":"AVRBUS-D0000","enter": 4, "exit": 2, "occupation": 2, "occupancy": 0.02, "busCapacity": 90, "time": "2023-01-03 12:09:04"}
+{"device_id":"AVRBUS-D0000","enter": 5, "exit": 2, "occupation": 3, "occupancy": 0.03, "busCapacity": 90, "time": "2023-01-03 12:09:06"}
+{"device_id":"AVRBUS-D0000","enter": 5, "exit": 3, "occupation": 2, "occupancy": 0.02, "busCapacity": 90, "time": "2023-01-03 12:09:10"}
+{"device_id":"AVRBUS-D0000","enter": 6, "exit": 3, "occupation": 3, "occupancy": 0.03, "busCapacity": 90, "time": "2023-01-03 12:09:10"}
+{"device_id":"AVRBUS-D0000","enter": 7, "exit": 3, "occupation": 4, "occupancy": 0.04, "busCapacity": 90, "time": "2023-01-03 12:09:10"}

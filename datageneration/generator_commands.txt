@@ -1,0 +1,2 @@
+python3 metric_generator.py --device_id AVRBUS-D0000 --route_id AVRBUS-R0011 --route_shift 092000
+python3 metric_generator.py --device_id AVRBUS-D0001 --route_id AVRBUS-R0004 --route_shift 083000

@@ -1,0 +1,1 @@
+{"device_id":"AVRBUS-D0000","enter": 1, "exit": 0, "occupation": 1, "occupancy": 0.01, "busCapacity": 90, "time": "2023-01-03 12:22:41"}

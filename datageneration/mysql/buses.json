@@ -1,0 +1,44 @@
+[
+  {
+    "id": "AVRBUS-B0000",
+    "registration": "31-RS-97",
+    "brand": "Setra",
+    "model": "MultiClass S 415 LE business",
+    "deviceId": "AVRBUS-D0000"
+  },
+  {
+    "id": "AVRBUS-B0001",
+    "registration": "74-NU-71",
+    "brand": "MAN",
+    "model": "Lion's Intercity LE",
+    "deviceId": "AVRBUS-D0001"
+  },
+  {
+    "id": "AVRBUS-B0002",
+    "registration": "10-VR-81",
+    "brand": "Caetano",
+    "model": "e.City Gold",
+    "deviceId": "AVRBUS-D0002"
+  },
+  {
+    "id": "AVRBUS-B0003",
+    "registration": "32-LM-11",
+    "brand": "Setra",
+    "model": "MultiClass S 415 LE business",
+    "deviceId": "AVRBUS-D0003"
+  },
+  {
+    "id": "AVRBUS-B0004",
+    "registration": "29-XS-44",
+    "brand": "Setra",
+    "model": "MultiClass S 415 LE business",
+    "deviceId": "AVRBUS-D0004"
+  },
+  {
+    "id": "AVRBUS-B0005",
+    "registration": "12-AD-34",
+    "brand": "MAN",
+    "model": "Lion's Intercity LE",
+    "deviceId": "AVRBUS-D0005"
+  }
+]

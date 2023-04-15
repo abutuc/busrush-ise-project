@@ -1,0 +1,121 @@
+services:
+  app:
+    container_name: busrush
+    build: .
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/busrush
+    # environment:
+    #  FLASK_DEBUG: True
+    depends_on:
+      cassandra:
+        condition: service_healthy
+      mysql-db:
+        condition: service_healthy
+    networks:
+      - api_bus-net
+  mysql-db:
+    container_name: busrush-db
+    image: mysql/mysql-server:5.7
+    ports:
+      - "3306:3306"
+    volumes:
+      - busrush-db:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_HOST: "%"
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: busrush
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin
+    networks:
+      - api_bus-net
+  rabbitmq:
+    container_name: rabbitmq
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15674:15674"
+      - "61613:61613"
+    volumes:
+      - type: bind
+        source: ./rabbitmq-enabled-plugins
+        target: /etc/rabbitmq/enabled_plugins
+      - type: bind
+        source: ./rabbitmq.config
+        target: /etc/rabbitmq/rabbitmq.config
+      - type: bind
+        source: ./rabbitmq-defs.json
+        target: /etc/rabbitmq/rabbitmq-defs.json
+    networks:
+      - api_bus-net
+  cassandra:
+    container_name: cassandra
+    image: cassandra:4.0
+    ports:
+      - "9042:9042"
+    healthcheck:
+      test: ["CMD", "cqlsh", "-e", "SELECT now() FROM system.local"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - cassandra:/var/lib/cassandra
+    environment:
+      CASSANDRA_CLUSTER_NAME: "busrush"
+    networks:
+      - api_bus-net
+  osrm:
+    container_name: osrm
+    image: ghcr.io/project-osrm/osrm-backend
+    ports:
+      - "5000:5000"
+    command: osrm-routed --algorithm mld /data/portugal-latest.osrm
+    volumes:
+      - type: bind
+        source: ./data
+        target: /data
+    networks:
+      - api_bus-net
+  cache:
+    container_name: cache
+    image: redis:6.2-alpine
+    restart: always
+    ports:
+      - "6379:6379"
+    command: redis-server --save 20 1 --loglevel warning --requirepass eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81
+    environment:
+      REDIS_PASSWORD: eYVX7EwVmmxKPCDmwMtyKVge8oLd2t81
+    volumes:
+      - cache:/data
+    networks:
+      - api_bus-net
+  init:
+    image: cassandra:4.0
+    depends_on:
+      - cassandra
+    restart: "no"
+    entrypoint: ["/init_cassandra.sh"]
+    volumes:
+      - ./init_cassandra.sh:/init_cassandra.sh
+    networks:
+      - api_bus-net
+  clean-redis:
+    image: redis:6.2-alpine
+    depends_on:
+      - cache
+    restart: "no"
+    entrypoint: ["/redis_clean.sh"]
+    volumes:
+      - ./redis_clean.sh:/redis_clean.sh
+    networks:
+      - api_bus-net
+
+volumes:
+  busrush-db:
+  cache:
+  cassandra:
+
+networks:
+  api_bus-net:
+    name: bus-net

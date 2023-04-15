@@ -1,0 +1,289 @@
+[
+  {
+    "id": "AVRBUS-S0000",
+    "designation": "Terminal Rodoviário de Aveiro",
+    "position": [40.64404, -8.63906]
+  },
+  {
+    "id": "AVRBUS-S0001",
+    "designation": "Av. Dr. Lourenço Peixinho - CTT B",
+    "position": [40.6434, -8.64491]
+  },
+  {
+    "id": "AVRBUS-S0002",
+    "designation": "Av. Dr. Lourenço Peixinho - Oita B",
+    "position": [40.64289, -8.6475]
+  },
+  {
+    "id": "AVRBUS-S0003",
+    "designation": "Av. Dr. Lourenço Peixinho - Capitania B",
+    "position": [40.64195, -8.65185]
+  },
+  {
+    "id": "AVRBUS-S0004",
+    "designation": "Caçadores 10 - Misericórdia",
+    "position": [40.64081, -8.65299]
+  },
+  {
+    "id": "AVRBUS-S0005",
+    "designation": "Av. de Santa Joana B",
+    "position": [40.63834, -8.6518]
+  },
+  {
+    "id": "AVRBUS-S0006",
+    "designation": "Universidade - Antiga Reitoria A",
+    "position": [40.63496, -8.65693]
+  },
+  {
+    "id": "AVRBUS-S0007",
+    "designation": "Universidade - Reitoria A",
+    "position": [40.63208, -8.65802]
+  },
+  {
+    "id": "AVRBUS-S0008",
+    "designation": "Universidade - Pavilhão A",
+    "position": [40.63017, -8.65501]
+  },
+  {
+    "id": "AVRBUS-S0009",
+    "designation": "Universidade - Santiago A",
+    "position": [40.62979, -8.65955]
+  },
+  {
+    "id": "AVRBUS-S0010",
+    "designation": "Universidade - Crasto",
+    "position": [40.62316, -8.65772]
+  },
+  {
+    "id": "AVRBUS-S0011",
+    "designation": "Universidade - Santiago B",
+    "position": [40.62978, -8.65953]
+  },
+  {
+    "id": "AVRBUS-S0012",
+    "designation": "Universidade - ISCAUA A",
+    "position": [40.63076, -8.65341]
+  },
+  {
+    "id": "AVRBUS-S0013",
+    "designation": "Universidade - ISCAUA B",
+    "position": [40.63083, -8.65325]
+  },
+  {
+    "id": "AVRBUS-S0014",
+    "designation": "Universidade - Pavilhão B",
+    "position": [40.63018, -8.65499]
+  },
+  {
+    "id": "AVRBUS-S0015",
+    "designation": "Universidade - Reitoria B",
+    "position": [40.63212, -8.65804]
+  },
+  {
+    "id": "AVRBUS-S0016",
+    "designation": "Universidade - Antiga Reitoria B",
+    "position": [40.63492, -8.65686]
+  },
+
+  {
+    "id": "AVRBUS-S0017",
+    "designation": "Hospital / Universidade B",
+    "position": [40.634901, -8.655725]
+  },
+  {
+    "id": "AVRBUS-S0018",
+    "designation": "Av. de Santa Joana A",
+    "position": [40.637783, -8.652141]
+  },
+  {
+    "id": "AVRBUS-S0019",
+    "designation": "Caçadores 10 - Sé",
+    "position": [40.639977, -8.65117]
+  },
+  {
+    "id": "AVRBUS-S0020",
+    "designation": "Av. Dr. Lourenço Peixinho - Capitania A",
+    "position": [40.641752, -8.652012]
+  },
+  {
+    "id": "AVRBUS-S0021",
+    "designation": "Av. Dr. Lourenço Peixinho - Oita A",
+    "position": [40.64272, -8.647147]
+  },
+  {
+    "id": "AVRBUS-S0022",
+    "designation": "Av. Dr. Lourenço Peixinho - CTT A (Temporária)",
+    "position": [40.642948, -8.644567]
+  },
+  {
+    "id": "AVRBUS-S0023",
+    "designation": "Estação de Aveiro",
+    "position": [40.643799, -8.641053]
+  },
+
+  {
+    "id": "AVRBUS-S0024",
+    "designation": "Cacia - EB23 Rio Novo do Príncipe",
+    "position": [40.681281, -8.599817]
+  },
+  {
+    "id": "AVRBUS-S0025",
+    "designation": "Sarrazola - Largo S.Bartolomeu",
+    "position": [40.689726, -8.602131]
+  },
+  {
+    "id": "AVRBUS-S0026",
+    "designation": "Escolas de Póvoa do Paço A",
+    "position": [40.676895, -8.626727]
+  },
+  {
+    "id": "AVRBUS-S0027",
+    "designation": "Escolas de Póvoa do Paço B",
+    "position": [40.676968, -8.62728]
+  },
+  {
+    "id": "AVRBUS-S0028",
+    "designation": "Quinta Clementina",
+    "position": [40.670119, -8.618201]
+  },
+  {
+    "id": "AVRBUS-S0029",
+    "designation": "Olho de Água A",
+    "position": [40.653868, -8.623605]
+  },
+  {
+    "id": "AVRBUS-S0030",
+    "designation": "Olho de Água B",
+    "position": [40.653934, -8.624045]
+  },
+  {
+    "id": "AVRBUS-S0031",
+    "designation": "Viaduto de Esgueira A",
+    "position": [40.646678, -8.634712]
+  },
+  {
+    "id": "AVRBUS-S0032",
+    "designation": "Viaduto de Esgueira B",
+    "position": [40.646689, -8.635015]
+  },
+  {
+    "id": "AVRBUS-S0033",
+    "designation": "Hospital / Universidade A",
+    "position": [40.63474, -8.65619]
+  },
+  {
+    "id": "AVRBUS-S0034",
+    "designation": "R. de Ovar - URB de Santiago",
+    "position": [40.62732, -8.651202]
+  },
+  {
+    "id": "AVRBUS-S0035",
+    "designation": "Ponte das Agras B",
+    "position": [40.649745, -8.6329]
+  },
+  {
+    "id": "AVRBUS-S0036",
+    "designation": "Lavadouros de Sarrazola B",
+    "position": [40.688074, -8.625079]
+  },
+  {
+    "id": "AVRBUS-S0037",
+    "designation": "Ponte das Agras A",
+    "position": [40.649672, -8.632647]
+  },
+  {
+    "id": "AVRBUS-S0038",
+    "designation": "Lavadouros de Sarrazola A",
+    "position": [40.687911, -8.60098]
+  },
+  {
+    "id": "AVRBUS-S0039",
+    "designation": "Cacia Norte",
+    "position": [40.684565, -8.590139]
+  },
+  {
+    "id": "AVRBUS-S0040",
+    "designation": "Junta de Freguesia de Cacia A",
+    "position": [40.683475, -8.598325]
+  },
+  {
+    "id": "AVRBUS-S0041",
+    "designation": "109 / Depósito de Cacia A",
+    "position": [40.665869, -8.609975]
+  },
+  {
+    "id": "AVRBUS-S0042",
+    "designation": "109 / Depósito de Cacia B",
+    "position": [40.665765, -8.609794]
+  },
+  {
+    "id": "AVRBUS-S0043",
+    "designation": "Junta de Freguesia de Cacia B",
+    "position": [40.683876, -8.597778]
+  },
+  {
+    "id": "AVRBUS-S0044",
+    "designation": "Largo Manuel Mateus Ventura A",
+    "position": [40.67606, -8.590134]
+  },
+  {
+    "id": "AVRBUS-S0045",
+    "designation": "Largo Manuel Mateus Ventura B",
+    "position": [40.675744, -8.590225]
+  },
+  {
+    "id": "AVRBUS-S0046",
+    "designation": "Igreja de Taboeira A",
+    "position": [40.655693, -8.57946]
+  },
+  {
+    "id": "AVRBUS-S0047",
+    "designation": "Igreja de Taboeira B",
+    "position": [40.65581, -8.579432]
+  },
+  {
+    "id": "AVRBUS-S0048",
+    "designation": "Taboeira A",
+    "position": [40.65237, -8.590167]
+  },
+  {
+    "id": "AVRBUS-S0049",
+    "designation": "Taboeira B",
+    "position": [40.652285, -8.590059]
+  },
+  {
+    "id": "AVRBUS-S0050",
+    "designation": "Tanques de Esgueira A",
+    "position": [40.64276, -8.622132]
+  },
+  {
+    "id": "AVRBUS-S0051",
+    "designation": "Tanques de Esgueira B",
+    "position": [40.64257, -8.621762]
+  },
+  {
+    "id": "AVRBUS-S0052",
+    "designation": "Fonte de Esgueira",
+    "position": [40.64257, -8.621762]
+  },
+  {
+    "id": "AVRBUS-S0053",
+    "designation": "Esgueira - Carramona",
+    "position": [40.648439, -8.630391]
+  },
+  {
+    "id": "AVRBUS-S0054",
+    "designation": "Esgueira - Luciano de Castro A",
+    "position": [40.647377, -8.633132]
+  },
+  {
+    "id": "AVRBUS-S0055",
+    "designation": "Esgueira - Luciano de Castro B",
+    "position": [40.647499, -8.632877]
+  },
+  {
+    "id": "AVRBUS-S0056",
+    "designation": "Esgueira - Pelourinho",
+    "position": [40.647499, -8.632877]
+  }
+]

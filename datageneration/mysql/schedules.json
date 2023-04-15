@@ -1,0 +1,1303 @@
+[
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0000",
+      "sequence": 0
+    },
+    "time": "09:20:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0001",
+      "sequence": 1
+    },
+    "time": "09:21:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0002",
+      "sequence": 2
+    },
+    "time": "09:22:30"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0003",
+      "sequence": 3
+    },
+    "time": "09:24:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0004",
+      "sequence": 4
+    },
+    "time": "09:25:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0005",
+      "sequence": 5
+    },
+    "time": "09:26:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0006",
+      "sequence": 6
+    },
+    "time": "09:29:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0007",
+      "sequence": 7
+    },
+    "time": "09:30:30"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0008",
+      "sequence": 8
+    },
+    "time": "09:32:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0009",
+      "sequence": 9
+    },
+    "time": "09:33:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0010",
+      "sequence": 10
+    },
+    "time": "09:36:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0011",
+      "sequence": 11
+    },
+    "time": "09:39:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0012",
+      "sequence": 12
+    },
+    "time": "09:40:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0013",
+      "sequence": 13
+    },
+    "time": "09:41:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0014",
+      "sequence": 14
+    },
+    "time": "09:42:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0015",
+      "sequence": 15
+    },
+    "time": "09:43:30"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0016",
+      "sequence": 16
+    },
+    "time": "09:45:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0011",
+        "shift": "092000"
+      },
+      "stopId": "AVRBUS-S0000",
+      "sequence": 17
+    },
+    "time": "09:50:00"
+  },
+
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0004",
+        "shift": "083000"
+      },
+      "stopId": "AVRBUS-S0017",
+      "sequence": 0
+    },
+    "time": "08:34:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0004",
+        "shift": "083000"
+      },
+      "stopId": "AVRBUS-S0018",
+      "sequence": 1
+    },
+    "time": "08:38:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0004",
+        "shift": "083000"
+      },
+      "stopId": "AVRBUS-S0019",
+      "sequence": 2
+    },
+    "time": "08:39:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0004",
+        "shift": "083000"
+      },
+      "stopId": "AVRBUS-S0020",
+      "sequence": 3
+    },
+    "time": "08:40:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0004",
+        "shift": "083000"
+      },
+      "stopId": "AVRBUS-S0021",
+      "sequence": 4
+    },
+    "time": "08:41:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0004",
+        "shift": "083000"
+      },
+      "stopId": "AVRBUS-S0022",
+      "sequence": 5
+    },
+    "time": "08:43:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0004",
+        "shift": "083000"
+      },
+      "stopId": "AVRBUS-S0023",
+      "sequence": 6
+    },
+    "time": "08:44:00"
+  },
+
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0024",
+      "sequence": 0
+    },
+    "time": "06:47:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0025",
+      "sequence": 1
+    },
+    "time": "06:50:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0026",
+      "sequence": 2
+    },
+    "time": "06:59:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0028",
+      "sequence": 3
+    },
+    "time": "07:03:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0029",
+      "sequence": 4
+    },
+    "time": "07:15:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0037",
+      "sequence": 5
+    },
+    "time": "07:16:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0031",
+      "sequence": 6
+    },
+    "time": "07:17:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0001",
+      "sequence": 7
+    },
+    "time": "07:20:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0002",
+      "sequence": 8
+    },
+    "time": "07:22:30"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0003",
+      "sequence": 9
+    },
+    "time": "07:23:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0004",
+      "sequence": 10
+    },
+    "time": "07:25:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0005",
+      "sequence": 11
+    },
+    "time": "07:26:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0033",
+      "sequence": 12
+    },
+    "time": "07:29:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0012",
+      "sequence": 13
+    },
+    "time": "07:31:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0034",
+      "sequence": 14
+    },
+    "time": "07:34:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0012",
+      "sequence": 15
+    },
+    "time": "07:37:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0017",
+      "sequence": 16
+    },
+    "time": "07:40:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0018",
+      "sequence": 17
+    },
+    "time": "07:43:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0019",
+      "sequence": 18
+    },
+    "time": "07:44:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0020",
+      "sequence": 19
+    },
+    "time": "07:45:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0021",
+      "sequence": 20
+    },
+    "time": "07:47:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0022",
+      "sequence": 21
+    },
+    "time": "07:48:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0023",
+      "sequence": 22
+    },
+    "time": "07:49:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0032",
+      "sequence": 23
+    },
+    "time": "07:53:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0035",
+      "sequence": 24
+    },
+    "time": "07:54:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0030",
+      "sequence": 25
+    },
+    "time": "07:55:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0028",
+      "sequence": 26
+    },
+    "time": "08:06:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0027",
+      "sequence": 27
+    },
+    "time": "08:10:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0036",
+      "sequence": 28
+    },
+    "time": "08:21:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0001",
+        "shift": "064700"
+      },
+      "stopId": "AVRBUS-S0024",
+      "sequence": 29
+    },
+    "time": "08:23:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0039",
+      "sequence": 0
+    },
+    "time": "12:45:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0040",
+      "sequence": 1
+    },
+    "time": "12:47:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0041",
+      "sequence": 2
+    },
+    "time": "12:54:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0029",
+      "sequence": 3
+    },
+    "time": "13:00:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0037",
+      "sequence": 4
+    },
+    "time": "13:01:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0031",
+      "sequence": 5
+    },
+    "time": "13:02:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0001",
+      "sequence": 6
+    },
+    "time": "13:05:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0002",
+      "sequence": 7
+    },
+    "time": "13:07:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0003",
+      "sequence": 8
+    },
+    "time": "13:09:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0004",
+      "sequence": 9
+    },
+    "time": "13:10:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0005",
+      "sequence": 10
+    },
+    "time": "13:11:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0033",
+      "sequence": 11
+    },
+    "time": "13:14:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0012",
+      "sequence": 12
+    },
+    "time": "13:17:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0034",
+      "sequence": 13
+    },
+    "time": "13:20:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0034",
+      "sequence": 14
+    },
+    "time": "13:25:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0013",
+      "sequence": 15
+    },
+    "time": "13:28:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0017",
+      "sequence": 16
+    },
+    "time": "13:30:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0018",
+      "sequence": 17
+    },
+    "time": "13:33:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0019",
+      "sequence": 18
+    },
+    "time": "13:34:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0020",
+      "sequence": 19
+    },
+    "time": "13:36:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0021",
+      "sequence": 20
+    },
+    "time": "13:37:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0022",
+      "sequence": 21
+    },
+    "time": "13:39:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0023",
+      "sequence": 22
+    },
+    "time": "13:40:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0032",
+      "sequence": 23
+    },
+    "time": "13:44:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0035",
+      "sequence": 24
+    },
+    "time": "13:45:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0030",
+      "sequence": 25
+    },
+    "time": "13:46:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0042",
+      "sequence": 26
+    },
+    "time": "13:55:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0043",
+      "sequence": 27
+    },
+    "time": "14:02:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0002",
+        "shift": "124500"
+      },
+      "stopId": "AVRBUS-S0039",
+      "sequence": 28
+    },
+    "time": "14:04:00"
+  },
+
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0024",
+      "sequence": 0
+    },
+    "time": "13:35:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0044",
+      "sequence": 1
+    },
+    "time": "13:41:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0046",
+      "sequence": 2
+    },
+    "time": "13:46:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0048",
+      "sequence": 3
+    },
+    "time": "13:48:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0050",
+      "sequence": 4
+    },
+    "time": "14:01:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0052",
+      "sequence": 5
+    },
+    "time": "14:04:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0053",
+      "sequence": 6
+    },
+    "time": "14:05:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0055",
+      "sequence": 7
+    },
+    "time": "14:06:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0031",
+      "sequence": 8
+    },
+    "time": "14:07:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0001",
+      "sequence": 9
+    },
+    "time": "14:10:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0002",
+      "sequence": 10
+    },
+    "time": "14:11:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0003",
+      "sequence": 11
+    },
+    "time": "14:13:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0004",
+      "sequence": 12
+    },
+    "time": "14:14:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0005",
+      "sequence": 13
+    },
+    "time": "14:15:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0033",
+      "sequence": 14
+    },
+    "time": "14:18:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0012",
+      "sequence": 15
+    },
+    "time": "14:20:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0034",
+      "sequence": 16
+    },
+    "time": "14:22:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0034",
+      "sequence": 17
+    },
+    "time": "14:25:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0013",
+      "sequence": 18
+    },
+    "time": "14:27:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0017",
+      "sequence": 19
+    },
+    "time": "14:30:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0018",
+      "sequence": 20
+    },
+    "time": "14:33:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0019",
+      "sequence": 21
+    },
+    "time": "14:34:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0020",
+      "sequence": 22
+    },
+    "time": "14:35:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0021",
+      "sequence": 23
+    },
+    "time": "14:37:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0022",
+      "sequence": 24
+    },
+    "time": "14:38:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0023",
+      "sequence": 25
+    },
+    "time": "14:39:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0032",
+      "sequence": 26
+    },
+    "time": "14:43:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0054",
+      "sequence": 27
+    },
+    "time": "14:44:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0056",
+      "sequence": 28
+    },
+    "time": "14:45:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0051",
+      "sequence": 29
+    },
+    "time": "14:47:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0049",
+      "sequence": 30
+    },
+    "time": "15:02:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0047",
+      "sequence": 31
+    },
+    "time": "15:04:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0045",
+      "sequence": 32
+    },
+    "time": "15:10:00"
+  },
+  {
+    "id": {
+      "routeId": {
+        "id": "AVRBUS-R0003",
+        "shift": "133500"
+      },
+      "stopId": "AVRBUS-S0024",
+      "sequence": 33
+    },
+    "time": "15:15:00"
+  }
+]

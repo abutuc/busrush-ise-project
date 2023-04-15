@@ -1,0 +1,17 @@
+
+services:          
+    frontend:
+        build: .     
+        container_name: frontend
+        ports:
+            - "3000:3000"
+        volumes: 
+            - ./:/frontend
+            - /frontend/node_modules
+        networks:
+            - front_bus-net
+
+networks:
+    front_bus-net:
+        external: 
+            name: bus-net

@@ -1,0 +1,12 @@
+beautifulsoup4
+click
+lxml
+numpy
+pika
+requests
+geopy
+numpy
+imutils==0.5.4
+numpy==1.23.5
+opencv-python==4.6.0.66
+socket
